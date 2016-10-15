@@ -9,8 +9,5 @@
 
 ### markdown
 `!['test'](https://raw.githubusercontent.com/CntChen/hetu-cntchen/master/blog/test.jpg)`
-```
-!['test'](https://raw.githubusercontent.com/CntChen/hetu-cntchen/master/blog/test.jpg)`
-```
 
 !['test'](https://raw.githubusercontent.com/CntChen/hetu-cntchen/master/blog/test.jpg)
